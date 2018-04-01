@@ -1,2 +1,2 @@
-# binary-calculator
+# Binary Calculator
 HackerRank JavaScript Challenge
